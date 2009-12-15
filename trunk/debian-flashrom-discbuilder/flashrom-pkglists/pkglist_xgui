@@ -1,0 +1,9 @@
+## standard-x11
+xserver-xorg-video-vesa
+xorg 
+xresprobe menu
+alsa-base alsa-utils
+
+## lxde
+lxde lxnm
+gdm desktop-base
