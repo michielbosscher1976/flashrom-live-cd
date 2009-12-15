@@ -68,7 +68,7 @@ help:
 	@echo "Usage: make [all] | [tools] [init] [depend] [conf] [build] "
 	
 tools:
-	apt-get install live-helper live-initramfs up	
+	apt-get install live-helper live-initramfs
 	apt-get install genisoimage wodim 
 	apt-get install mtools dosfstools squashfs-tools genext2fs mtd-tools
 	apt-get install win32-loader memtest86+ memtest86 # hwtools
