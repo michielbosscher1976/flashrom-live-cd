@@ -1,0 +1,13 @@
+binutils
+bison
+build-essential
+cvs
+git-core
+diff
+flex
+gdb
+libpci-dev
+patchutils
+quilt
+subversion
+#valgrind

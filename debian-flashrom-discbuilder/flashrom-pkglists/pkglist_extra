@@ -1,0 +1,10 @@
+klogd
+sysklogd
+#debconf-english
+discover
+lsof
+minicom
+picocom
+strace
+live-helper
+debootstrap
