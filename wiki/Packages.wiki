@@ -17,4 +17,4 @@ Size of ISO-image is <185 MBytes. Small enough to fit on a flash drive or 3" CD-
 
 = Details =
 
-This page is a work in progress. There is no ISO yet. This is just a plan for now.
+The Debian ISO v0.1 maybe downloaded from here: http://www.load2all.com/files/8672D1B2C/flashromlivecd-debian-0.1.iso.html
